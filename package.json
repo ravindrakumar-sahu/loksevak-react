@@ -1,4 +1,7 @@
 {
   "name": "loksevak-react",
-  "version": "1.0.0"
+  "version": "1.0.0",
+  "devDependencies": {
+    "vite": "^7.0.0"
+  }
 }
